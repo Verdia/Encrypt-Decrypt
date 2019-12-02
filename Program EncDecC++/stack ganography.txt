@@ -1,0 +1,6 @@
+stack ganography 
+assimetric lebih berat daripada simetric karena per sign lebih dari 1024 bytes
+random itu paling susah untuk di gain komputer. serandom randomnya angka jika dijalankan pada komputer pasti ada algoritmanya
+contoh asymetric adalah https biasanya ada sertifikasi pada web.
+
+tugas : diagram https asymetric
